@@ -154,3 +154,7 @@ img{display:block;max-width:100%;height:auto;transition:filter .5s ease-in-out}
 .tab a{background-color:inherit;float:left;border:none;outline:0;cursor:pointer;padding:14px 16px;transition:.3s;text-decoration:none;color:#000}
 .tab a:hover{border-radius:10px;background-color:#eb455e}
 .question:target{display:block}
+@font-face{font-family:icomoon;src:url(fonts/icomoon.eot?6k5vv5);src:url(fonts/icomoon.eot?6k5vv5#iefix) format('embedded-opentype'),url(fonts/icomoon.ttf?6k5vv5) format('truetype'),url(fonts/icomoon.woff?6k5vv5) format('woff'),url(fonts/icomoon.svg?6k5vv5#icomoon) format('svg');font-weight:400;font-style:normal;font-display:block}
+[class*=" icon-"],[class^=icon-]{font-family:icomoon!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.icon-twitter:before{content:"\ea96"}
+.icon-youtube:before{content:"\ea9d"}
